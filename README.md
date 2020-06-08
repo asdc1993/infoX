@@ -9,22 +9,22 @@
 <br>
 <h2>Imagens do Programa</h2>
 <br>
-<h2>Imagens</h2>
+<h4>Tela de Login</h4>
 <img src="imgs/login.PNG">
 <br>
-<h2>Imagens</h2>
+<h4>Tela Principal</h4>
 <img src="imgs/principal.PNG">
 <br>
-<h2>Imagens</h2>
+<h4>Tela de ordem de serviços</h4>
 <img src="imgs/os.PNG">
 <br>
-<h2>Imagens</h2>
+<h4>Tela de cadastro, exclusão, e atualização de clientes</h4>
 <img src="imgs/clientes.PNG">
 <br>
-<h2>Imagens</h2>
+<h4>Tela de cadastro, exclusão, e atualização de usuarios</h4>
 <img src="imgs/usuarios.PNG">
 <br>
-<h2>Imagens</h2>
+<h4>Tela de relatorios</h4>
 <img src="imgs/relatorios.PNG">
 <br>
 
